@@ -50,9 +50,9 @@ usage_msg = """
 Usage:
   python3 ScheduleAnalyzer.py arg1 arg2 arg3 [optional args]
 
-  arg1 = ESPN league ID
-  arg2 = number of weeks in regular season
-  arg3 = number of teams that make playoffs
+  arg1 = 243349
+  arg2 = 1 - 13
+  arg3 = 6
 
 Optional Args:
   --year XXXX (default=2018)
